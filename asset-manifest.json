@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/react-personal/static/css/main.00ca7dc5.chunk.css",
-    "main.js": "/react-personal/static/js/main.b06007e7.chunk.js",
-    "main.js.map": "/react-personal/static/js/main.b06007e7.chunk.js.map",
+    "main.css": "/react-personal/static/css/main.0b8d5a0f.chunk.css",
+    "main.js": "/react-personal/static/js/main.ad25c6ed.chunk.js",
+    "main.js.map": "/react-personal/static/js/main.ad25c6ed.chunk.js.map",
     "runtime-main.js": "/react-personal/static/js/runtime-main.bcfc8458.js",
     "runtime-main.js.map": "/react-personal/static/js/runtime-main.bcfc8458.js.map",
     "static/css/2.7abef457.chunk.css": "/react-personal/static/css/2.7abef457.chunk.css",
-    "static/js/2.cb1cb559.chunk.js": "/react-personal/static/js/2.cb1cb559.chunk.js",
-    "static/js/2.cb1cb559.chunk.js.map": "/react-personal/static/js/2.cb1cb559.chunk.js.map",
+    "static/js/2.32c304cb.chunk.js": "/react-personal/static/js/2.32c304cb.chunk.js",
+    "static/js/2.32c304cb.chunk.js.map": "/react-personal/static/js/2.32c304cb.chunk.js.map",
     "index.html": "/react-personal/index.html",
-    "precache-manifest.a57bf07ebe1248cdfcd180b86d6a955b.js": "/react-personal/precache-manifest.a57bf07ebe1248cdfcd180b86d6a955b.js",
+    "precache-manifest.b3348f74d6799fb17733a820c365eb84.js": "/react-personal/precache-manifest.b3348f74d6799fb17733a820c365eb84.js",
     "service-worker.js": "/react-personal/service-worker.js",
     "static/css/2.7abef457.chunk.css.map": "/react-personal/static/css/2.7abef457.chunk.css.map",
-    "static/css/main.00ca7dc5.chunk.css.map": "/react-personal/static/css/main.00ca7dc5.chunk.css.map",
-    "static/js/2.cb1cb559.chunk.js.LICENSE.txt": "/react-personal/static/js/2.cb1cb559.chunk.js.LICENSE.txt",
+    "static/css/main.0b8d5a0f.chunk.css.map": "/react-personal/static/css/main.0b8d5a0f.chunk.css.map",
+    "static/js/2.32c304cb.chunk.js.LICENSE.txt": "/react-personal/static/js/2.32c304cb.chunk.js.LICENSE.txt",
+    "static/media/MD.svg": "/react-personal/static/media/MD.21047513.svg",
     "static/media/first.svg": "/react-personal/static/media/first.cf76d11f.svg",
     "static/media/myAvatar.png": "/react-personal/static/media/myAvatar.d48da99d.png",
     "static/media/second.svg": "/react-personal/static/media/second.22f92206.svg"
@@ -21,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.bcfc8458.js",
     "static/css/2.7abef457.chunk.css",
-    "static/js/2.cb1cb559.chunk.js",
-    "static/css/main.00ca7dc5.chunk.css",
-    "static/js/main.b06007e7.chunk.js"
+    "static/js/2.32c304cb.chunk.js",
+    "static/css/main.0b8d5a0f.chunk.css",
+    "static/js/main.ad25c6ed.chunk.js"
   ]
 }
