@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-personal/static/css/main.58f32e41.chunk.css",
-    "main.js": "/react-personal/static/js/main.11f21d7f.chunk.js",
-    "main.js.map": "/react-personal/static/js/main.11f21d7f.chunk.js.map",
+    "main.css": "/react-personal/static/css/main.3fee161c.chunk.css",
+    "main.js": "/react-personal/static/js/main.335d15a3.chunk.js",
+    "main.js.map": "/react-personal/static/js/main.335d15a3.chunk.js.map",
     "runtime-main.js": "/react-personal/static/js/runtime-main.bcfc8458.js",
     "runtime-main.js.map": "/react-personal/static/js/runtime-main.bcfc8458.js.map",
     "static/css/2.7abef457.chunk.css": "/react-personal/static/css/2.7abef457.chunk.css",
-    "static/js/2.c9babe2a.chunk.js": "/react-personal/static/js/2.c9babe2a.chunk.js",
-    "static/js/2.c9babe2a.chunk.js.map": "/react-personal/static/js/2.c9babe2a.chunk.js.map",
+    "static/js/2.a5792266.chunk.js": "/react-personal/static/js/2.a5792266.chunk.js",
+    "static/js/2.a5792266.chunk.js.map": "/react-personal/static/js/2.a5792266.chunk.js.map",
     "index.html": "/react-personal/index.html",
-    "precache-manifest.fc77aa00e62a4015ef215f2959bf3076.js": "/react-personal/precache-manifest.fc77aa00e62a4015ef215f2959bf3076.js",
+    "precache-manifest.86669a594be4084313ce25e4fa965038.js": "/react-personal/precache-manifest.86669a594be4084313ce25e4fa965038.js",
     "service-worker.js": "/react-personal/service-worker.js",
     "static/css/2.7abef457.chunk.css.map": "/react-personal/static/css/2.7abef457.chunk.css.map",
-    "static/css/main.58f32e41.chunk.css.map": "/react-personal/static/css/main.58f32e41.chunk.css.map",
-    "static/js/2.c9babe2a.chunk.js.LICENSE.txt": "/react-personal/static/js/2.c9babe2a.chunk.js.LICENSE.txt",
+    "static/css/main.3fee161c.chunk.css.map": "/react-personal/static/css/main.3fee161c.chunk.css.map",
+    "static/js/2.a5792266.chunk.js.LICENSE.txt": "/react-personal/static/js/2.a5792266.chunk.js.LICENSE.txt",
     "static/media/Contact1.svg": "/react-personal/static/media/Contact1.3b0c3f4c.svg",
     "static/media/Logo.svg": "/react-personal/static/media/Logo.4490c0e9.svg",
     "static/media/MD.svg": "/react-personal/static/media/MD.a385f195.svg",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.bcfc8458.js",
     "static/css/2.7abef457.chunk.css",
-    "static/js/2.c9babe2a.chunk.js",
-    "static/css/main.58f32e41.chunk.css",
-    "static/js/main.11f21d7f.chunk.js"
+    "static/js/2.a5792266.chunk.js",
+    "static/css/main.3fee161c.chunk.css",
+    "static/js/main.335d15a3.chunk.js"
   ]
 }
